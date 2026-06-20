@@ -1,4 +1,4 @@
-# 📊 Python Data Analyzer Tool
+#  Python Data Analyzer Tool
 
 ##  About the project
 This is a beginner Python project that analyzes a list of numbers and generates useful statistics.
